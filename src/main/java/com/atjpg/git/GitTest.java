@@ -1,0 +1,12 @@
+package com.atjpg.git;
+
+/**
+ * @author jpg
+ * @create 2022-06-12-16:22
+ */
+public class GitTest {
+
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
